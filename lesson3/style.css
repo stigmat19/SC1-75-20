@@ -1,0 +1,37 @@
+h1{
+    color: red !important; 
+}
+.h1{
+    color: chocolate;
+}
+#h1_id{
+    color: darkgoldenrod;
+}
+
+#ccc{
+    color: chartreuse;
+}
+/* p {
+    color: green;
+}
+body{
+    color: violet;
+} */
+
+.aaa{
+    color: blue;  
+    font-weight: bold; 
+}
+.bbb{
+    background-color: brown;    
+    color: aqua; 
+ }
+div span{
+    font-size: 72px;
+}
+p.qqq{
+    background-color:darkmagenta;
+}
+.qqq{
+    background-color:crimson;
+}
